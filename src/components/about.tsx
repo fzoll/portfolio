@@ -32,7 +32,7 @@ export default function About() {
       </p>
 
       <p className="mb-3">
-        When I'm not coding, I spend time with my daughter and playing squash. I like hiking, logic and board games.{" "}
+        When I&apos;m not coding, I spend time with my daughter and playing squash. I like hiking, logic and board games.{" "}
       </p>
     </motion.section>
   );

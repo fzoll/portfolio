@@ -69,7 +69,7 @@ export default function Intro() {
           duration: 0.7,
         }}
   >
-        <span className="font-bold">Hello, I'm Zoltán.</span> I'm a{" "}
+        <span className="font-bold">Hello, I&apos;m Zoltán.</span> I&apos;m a{" "}
         <span className="font-bold">full-stack developer</span> with{" "}
         <span className="font-bold">over 25 years</span> of experience. My focus is{" "}
         <span className="underline">React (JS/TS)</span> on the Frontend and{" "}
