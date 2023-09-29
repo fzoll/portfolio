@@ -32,7 +32,7 @@ resource "aws_amplify_app" "app" {
   }
 
   environment_variables = {
-    REGION = "${data.aws_region.current.id}"
+    REGION         = "${data.aws_region.current.id}"
     RESEND_API_KEY = var.RESEND_API_KEY
   }
 }

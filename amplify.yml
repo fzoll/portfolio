@@ -3,7 +3,7 @@ frontend:
   phases:
     preBuild:
       commands:
-        - npm ci
+        - npm i
     build:
       commands:
         - echo "RESEND_API_KEY=$RESEND_API_KEY" >> .env
